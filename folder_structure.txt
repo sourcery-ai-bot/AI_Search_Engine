@@ -1,0 +1,25 @@
+m:\DEV_Projects\AI_Search_Engine
+├── .gitignore
+├── LICENSE
+├── README.md
+├── admin
+│   ├── create_folder_structure.py
+│   └── sync_repo.py
+├── config
+│   └── .env
+├── data
+│   └── search_data.db
+├── docs
+│   ├── add_documentation_files_here.txt
+│   └── folder_overview.md
+├── folder_structure.txt
+├── src
+│   ├── __pycache__
+│   │   └── web_server.cpython-311.pyc
+│   ├── collect_data_store.py
+│   ├── main.py
+│   └── web_server.py
+└── templates
+    └── index.html
+
+Script last modified: 2023-09-10 12:56:27
